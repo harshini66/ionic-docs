@@ -67,4 +67,4 @@ An app can be updated by either submitting a new version to Apple, or by using a
 
 With <strong>Ionic Deploy</strong>, app changes can be pushed in realtime directly to users from the Ionic Pro dashboard, without waiting for App Store approvals.
 
-> In order for the iOS App Store to accept the updated build, the config.xml file will need to be edited to increment the version value, then rebuild the app for release following the same instructions above.
+> In order for the iOS App Store to accept the updated build, the config.xml file will need to be edited to increment the version value, then rebuild the app for release following the same instructions above..
